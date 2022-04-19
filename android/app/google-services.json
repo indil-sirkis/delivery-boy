@@ -1,0 +1,250 @@
+{
+  "project_info": {
+    "project_number": "735888033056",
+    "project_id": "indil-customer",
+    "storage_bucket": "indil-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735888033056:android:125d55e7f1ee99808a8345",
+        "android_client_info": {
+          "package_name": "com.app.IndiDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735888033056-j87j4d5h78bjt1hcqa3u03vsf6u5b06m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.IndiDriver",
+            "certificate_hash": "6a013519965d81260a5110cf71feb013240e46be"
+          }
+        },
+        {
+          "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSfejkqEJPab4CN1jvLciw4W2PUnpH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735888033056-4cqr146g1rob3rnu7f52ue9ph5jtfa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galambia.indil"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735888033056:android:55801e574eafbbd18a8345",
+        "android_client_info": {
+          "package_name": "com.galambia.indil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735888033056-l3oknnml12aod397u9t1i4ki5teapc1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galambia.indil",
+            "certificate_hash": "6a013519965d81260a5110cf71feb013240e46be"
+          }
+        },
+        {
+          "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSfejkqEJPab4CN1jvLciw4W2PUnpH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735888033056-4cqr146g1rob3rnu7f52ue9ph5jtfa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galambia.indil"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735888033056:android:ba515ca377d91ffe8a8345",
+        "android_client_info": {
+          "package_name": "com.gm.indil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735888033056-b9n8qa5mlpduof0kt8idifsk8o93gn17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gm.indil",
+            "certificate_hash": "6a013519965d81260a5110cf71feb013240e46be"
+          }
+        },
+        {
+          "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSfejkqEJPab4CN1jvLciw4W2PUnpH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735888033056-4cqr146g1rob3rnu7f52ue9ph5jtfa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galambia.indil"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735888033056:android:123b6f700ef50b2b8a8345",
+        "android_client_info": {
+          "package_name": "indil.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSfejkqEJPab4CN1jvLciw4W2PUnpH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735888033056-4cqr146g1rob3rnu7f52ue9ph5jtfa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galambia.indil"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735888033056:android:b603c77d745e35ea8a8345",
+        "android_client_info": {
+          "package_name": "indil.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSfejkqEJPab4CN1jvLciw4W2PUnpH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735888033056-4cqr146g1rob3rnu7f52ue9ph5jtfa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galambia.indil"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735888033056:android:74c704a251a7fd5b8a8345",
+        "android_client_info": {
+          "package_name": "indil.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSSfejkqEJPab4CN1jvLciw4W2PUnpH4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735888033056-naglpd6qlhucooenkplqedqh4utr5po6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "735888033056-4cqr146g1rob3rnu7f52ue9ph5jtfa1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galambia.indil"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
