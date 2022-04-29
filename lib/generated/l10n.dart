@@ -398,8 +398,8 @@ class S {
   /// `Let's Start with register!`
   String get lets_start_with_register {
     return Intl.message(
-      'Let\'s Start with register!',
-      name: 'lets_start_with_register',
+      'Enter details to Register',
+      name: 'enter_details_to_register',
       desc: '',
       args: [],
     );
@@ -528,8 +528,8 @@ class S {
   /// `Let's Start with Login!`
   String get lets_start_with_login {
     return Intl.message(
-      'Let\'s Start with Login!',
-      name: 'lets_start_with_login',
+      'Enter details to Login',
+      name: 'enter_details_to_login',
       desc: '',
       args: [],
     );
@@ -1236,8 +1236,8 @@ class S {
   /// `Email to reset password`
   String get email_to_reset_password {
     return Intl.message(
-      'Email to reset password',
-      name: 'email_to_reset_password',
+      'Enter email to reset password',
+      name: 'enter_email_to_reset_password',
       desc: '',
       args: [],
     );
@@ -1433,8 +1433,8 @@ class S {
   /// `This account not exist`
   String get thisAccountNotExist {
     return Intl.message(
-      'This account not exist',
-      name: 'thisAccountNotExist',
+      'This account does not exist',
+      name: 'this_account_does_not_exist',
       desc: '',
       args: [],
     );
